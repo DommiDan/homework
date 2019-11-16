@@ -1,0 +1,51 @@
+
+header {
+    border: 20px;
+}
+
+.name {
+    
+    color: white;
+    border-left: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    margin: 15px;
+    padding: 20px;
+    background-color: teal;
+    font-weight: bolder;
+    margin-left: 220px;
+   
+}
+
+.link {
+    float: right;
+    color: gray;
+    margin: 10px;
+    border-right: gray;
+    margin-bottom: 50px;
+    padding-bottom: 3px;
+}
+
+.a {
+    float: bottom;
+    color: teal;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    margin-bottom: 60px;
+    padding: 220px;
+    padding-bottom: 140px;
+}
+.container{
+    padding: 220px;
+    padding-top: 60px;
+}
+.contacts {
+    border-style: solid; color: gray;
+    clear:both;
+    height: 280px;
+    
+}
+.con {
+    color: teal;
+}
